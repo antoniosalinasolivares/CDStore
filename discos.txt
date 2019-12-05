@@ -1,0 +1,13 @@
+Kamikaze|Eminem|2018|250|9
+A_Rush_of_Blood_to_the_Head|Coldplay|2002|150|7
+A_Head_Full_of_Dreams|Coldplay|2015|200|5
+Ghost_Stories|Colsplay|2014|200|8
+X|Ed_Sheeran|2014|200|6
+÷|Ed_Sheeran|2017|300|8
++|Ed_Sheeran|2011|200|5
+24K_Magic|Bruno_Mars|2016|300|8
+Unorthodox_Jukebox|Bruno_Mars|2012|200|5
+Master_Of_Puppets|Metallica|1986|300|5
+And_Justice_for_all|Metallica|1988|300|6
+Hardwired|Metallica|2016|250|5
+Parachutes|Coldplay|2000|200|10

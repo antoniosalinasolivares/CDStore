@@ -1,0 +1,2 @@
+admin|0|0|admin|
+pepe|2|550|password|
